@@ -1,5 +1,3 @@
-# Hey, I'm Frick 👋
-
 ### Software Engineer · Fintech · Distributed Systems
 
 Currently exploring **Go**, distributed systems, and system design while building fintech-focused projects.
